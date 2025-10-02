@@ -1,0 +1,1 @@
+This is a test file created in MAIN branch of Local repo named DevOps-Ninja-ATS from Git Bash terminal
